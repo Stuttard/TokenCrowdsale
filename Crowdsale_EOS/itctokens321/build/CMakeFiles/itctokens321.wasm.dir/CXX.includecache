@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/wax/Crowdsale_EOS/itctokens321/src/itctokens321.cpp
+logger.hpp
+/wax/Crowdsale_EOS/itctokens321/src/logger.hpp
+itctokens321.hpp
+/wax/Crowdsale_EOS/itctokens321/src/itctokens321.hpp
+
+/wax/Crowdsale_EOS/itctokens321/src/itctokens321.hpp
+eosiolib/asset.hpp
+-
+eosiolib/eosio.hpp
+-
+string
+-
+
+/wax/Crowdsale_EOS/itctokens321/src/logger.hpp
+

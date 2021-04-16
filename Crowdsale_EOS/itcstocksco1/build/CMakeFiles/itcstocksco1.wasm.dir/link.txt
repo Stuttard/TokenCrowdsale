@@ -1,0 +1,1 @@
+/usr/local/eosio.cdt/bin/eosio-ld  CMakeFiles/itcstocksco1.wasm.dir/src/itcstocksco1.cpp.o -o itcstocksco1.wasm 

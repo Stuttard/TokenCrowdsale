@@ -1,0 +1,23 @@
+{
+  "expiration": "2021-04-15T02:44:42.000",
+  "ref_block_num": 26680,
+  "ref_block_prefix": 973839695,
+  "max_net_usage_words": 0,
+  "max_cpu_usage_ms": 0,
+  "delay_sec": 0,
+  "context_free_actions": [],
+  "actions": [
+    {
+      "account": "itcommunity1",
+      "name": "transfer",
+      "authorization": [
+        {
+          "actor": "itcommunity1",
+          "permission": "active"
+        }
+      ],
+      "data": "104208215CE54DAC107C76534B4951766400000000000000005741580000000000"
+    }
+  ],
+  "transaction_extensions": []
+}

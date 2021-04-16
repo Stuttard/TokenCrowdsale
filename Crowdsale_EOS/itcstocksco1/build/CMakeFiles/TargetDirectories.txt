@@ -1,0 +1,3 @@
+/wax/Crowdsale_EOS/itcstocksco1/build/CMakeFiles/rebuild_cache.dir
+/wax/Crowdsale_EOS/itcstocksco1/build/CMakeFiles/itcstocksco1.wasm.dir
+/wax/Crowdsale_EOS/itcstocksco1/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/wax/Crowdsale_EOS/itcstocksco1/src/config.h
+
+/wax/Crowdsale_EOS/itcstocksco1/src/itcstocksco1.cpp
+itcstocksco1.hpp
+/wax/Crowdsale_EOS/itcstocksco1/src/itcstocksco1.hpp
+config.h
+/wax/Crowdsale_EOS/itcstocksco1/src/config.h
+
+/wax/Crowdsale_EOS/itcstocksco1/src/itcstocksco1.hpp
+eosio/eosio.hpp
+-
+eosio/name.hpp
+-
+eosio/singleton.hpp
+-
+eosio/time.hpp
+-
+eosio/system.hpp
+-
+eosio/datastream.hpp
+-
+eosio/asset.hpp
+-
+
